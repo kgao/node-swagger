@@ -1,6 +1,6 @@
-# Kev's Skeleton project for Swagger
+# node-swagger
 
-A web based API documentation tool powered by swagger module for node.js
+A web based API documentation tool skeleton project powered by swagger module for node.js
 
 # Quick start
 
