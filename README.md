@@ -1,4 +1,4 @@
-# Kev's first Skeleton project for Swagger
+# Kev's Skeleton project for Swagger
 
 A web based API documentation tool powered by swagger module for node.js
 
