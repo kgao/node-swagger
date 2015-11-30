@@ -4,7 +4,7 @@ A web based API documentation tool skeleton project powered by swagger module in
 
 # Quick start
 
-## 5. Run the server
+## Run the server
 
 Run the project server.
 
